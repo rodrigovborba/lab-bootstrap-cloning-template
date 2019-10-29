@@ -13,3 +13,20 @@
 .card:hover .card-img-top {
   transform: scale(1.05);
 }
+
+.navbar-brand {
+  margin: 20px;
+}
+
+.h1-header {
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+}
+
+.p-header {
+  margin-bottom: 60px;
+}
+
+.imgs-sec1 {
+  width: 100%;
+}
